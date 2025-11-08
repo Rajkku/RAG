@@ -1,0 +1,2 @@
+# Environment files (do NOT commit secrets)
+.env
